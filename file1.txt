@@ -1,1 +1,2 @@
-this is my file 1 for git learning
+this is my file 1 for git learning.
+adding more content to file one.
